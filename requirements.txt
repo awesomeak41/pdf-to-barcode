@@ -4,3 +4,4 @@ pandas
 python-barcode
 reportlab
 pillow
+jpype1
